@@ -3,6 +3,7 @@
 This repository contains the code and resources for an end-to-end data engineering project in the Azure cloud environment. The project involves ingesting raw data from a source into Azure Data Lake Storage Gen2 using Azure Data Factory, performing data transformations in Azure Databricks, and using Azure Synapse Analytics for data analysis and dashboard creation.
 
 ## Architecture
+![Azure Synapse project](https://github.com/qadeerbangash/azure-dataFactory-databricks-pipeline/assets/64665560/e6c1c35d-384b-4a2c-a399-d46ac0ff6c6e)
 
 ## Project Overview
 
